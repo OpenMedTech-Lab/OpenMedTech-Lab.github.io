@@ -1,2 +1,2 @@
 # OpenMedTech-Lab.github.io
-Lab website
+Open-source Medical Technology Lab
