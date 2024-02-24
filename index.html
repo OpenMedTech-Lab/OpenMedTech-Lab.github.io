@@ -1,65 +1,63 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OpenMedTech Lab Website</title>
     <link rel="stylesheet" href="styles.css">
+    <title>OpenMedTech Lab</title>
 </head>
+
 <body>
     <header>
         <h1>OpenMedTech Lab</h1>
         <nav>
-            <ul class="tab-bar">
-                <li class="active"><a href="#home">Home</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <!-- Removed Team and Publications tabs -->
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#projects">Projects</a>
+                    <ul class="dropdown">
+                        <li><a href="#openxstim">OpenXstim</a></li>
+                        <li><a href="#openxamp">OpenXamp</a></li>
+                        <li><a href="#openxstand">OpenXstand</a></li>
+                        <li><a href="#openxwheel">OpenXwheel</a></li>
+                        <li><a href="#openxwalk">OpenXwalk</a></li>
+                    </ul>
+                </li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
         </nav>
     </header>
 
-    <section id="main-content">
-        <div id="home-content">
-            <h2>Welcome to OpenMedTech Lab</h2>
-            <p>OpenMedTech Lab is dedicated to advancing research and innovation in the field of medical technology. Our mission is to create impactful projects that contribute to the improvement of healthcare.</p>
+    <section id="home">
+        <h2>Welcome to OpenMedTech Lab</h2>
+        <img src="path/to/lab-image.jpg" alt="OpenMedTech Lab" style="width: 100%; max-width: 800px; height: auto;">
+        <p>We are dedicated to advancing medical technology through innovative projects.</p>
+    </section>
 
-            <h3>Introduction</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    <section id="projects">
+        <h2>Projects</h2>
+        <p>Explore our ongoing projects:</p>
+        <ul>
+            <li><strong><a href="#openxstim">OpenXstim</a>:</strong> Description of OpenXstim.</li>
+            <li><strong><a href="#openxamp">OpenXamp</a>:</strong> Description of OpenXamp.</li>
+            <li><strong><a href="#openxstand">OpenXstand</a>:</strong> Description of OpenXstand.</li>
+            <li><strong><a href="#openxwheel">OpenXwheel</a>:</strong> Description of OpenXwheel.</li>
+            <li><strong><a href="#openxwalk">OpenXwalk</a>:</strong> Description of OpenXwalk.</li>
+        </ul>
+    </section>
 
-            <h3>Description</h3>
-            <p>Our lab focuses on developing cutting-edge technologies for medical applications. From software solutions to hardware devices, we aim to revolutionize healthcare practices and improve patient outcomes.</p>
-
-            <h3>Projects</h3>
-            <ul>
-                <li>
-                    <a href="#openxstim">OpenXstim</a>
-                    <p>OpenXstim is a groundbreaking project that focuses on developing innovative stimulation techniques for medical applications. It aims to enhance treatment options and improve patient outcomes.</p>
-                </li>
-                <li>
-                    <a href="#openxamp">OpenXamp</a>
-                    <p>OpenXamp is a project dedicated to the development of advanced amplification technologies for medical devices. It seeks to improve signal processing and provide more accurate data in healthcare applications.</p>
-                </li>
-                <li>
-                    <a href="#openxstand">OpenXstand</a>
-                    <p>OpenXstand involves the creation of a versatile and adaptable medical device stand. This project aims to enhance the usability and flexibility of various medical equipment in clinical settings.</p>
-                </li>
-                <li>
-                    <a href="#openxwheel">OpenXwheel</a>
-                    <p>OpenXwheel focuses on the development of a smart wheelchair system with advanced navigation and control features. It aims to improve mobility and enhance the overall quality of life for individuals with mobility challenges.</p>
-                </li>
-                <li>
-                    <a href="#openxwalk">OpenXwalk</a>
-                    <p>OpenXwalk is a project dedicated to creating innovative walking assistance devices. It aims to provide support and stability for individuals with walking difficulties, contributing to increased mobility and independence.</p>
-                </li>
-            </ul>
-        </div>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Feel free to reach out to us:</p>
+        <!-- Add your contact form or information here -->
     </section>
 
     <footer>
-        <p>&copy; 2024 OpenMedTech Lab. All rights reserved.</p>
+        <p>&copy; 2024 OpenMedTech Lab. This website is open-source under the MIT License. View on <a
+                href="https://github.com/yourusername/openmedtech-lab-website">GitHub</a>.</p>
     </footer>
 
     <script src="script.js"></script>
 </body>
+
 </html>

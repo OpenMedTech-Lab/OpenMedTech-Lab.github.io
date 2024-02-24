@@ -1,53 +1,71 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    padding: 0;
+    text-align: center; /* Center the heading area */
+    background-color: #f2f9fc; /* Light blue background color */
 }
 
 header {
-    background-color: #333;
+    background-color: #4caf50; /* Happy green color */
+    padding: 20px;
     color: white;
-    padding: 1em;
-    text-align: center;
 }
 
-.tab-bar {
-    list-style: none;
+nav {
+    text-align: center; /* Center the navigation */
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
     padding: 0;
-    display: flex;
-    justify-content: center;
-    background-color: #444;
-    margin: 0;
 }
 
-.tab-bar li {
-    margin: 0;
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    position: relative; /* Set position relative for dropdown */
 }
 
-.tab-bar a {
+nav ul li a {
     text-decoration: none;
     color: white;
-    padding: 10px 20px;
+    font-size: 18px; /* Increase font size */
+}
+
+nav ul li a:hover {
+    border-bottom: 2px solid white;
+}
+
+.dropdown {
+    display: none;
+    position: absolute;
+    background-color: #4caf50; /* Happy green color */
+    left: 50%; /* Move dropdown to the center */
+    transform: translateX(-50%); /* Center the dropdown horizontally */
+}
+
+.dropdown li {
     display: block;
 }
 
-.tab-bar a:hover {
-    background-color: #555;
+nav ul li:hover .dropdown {
+    display: block;
 }
 
-.tab-bar .active {
-    background-color: #555;
-}
-
-#main-content {
+section {
     padding: 20px;
+    text-align: left; /* Left-align section content */
+}
+
+h2 {
+    color: #4caf50; /* Happy green color */
 }
 
 footer {
-    background-color: #333;
+    background-color: #4caf50; /* Happy green color */
     color: white;
-    text-align: center;
-    padding: 1em;
+    padding: 10px;
     position: fixed;
     bottom: 0;
     width: 100%;
