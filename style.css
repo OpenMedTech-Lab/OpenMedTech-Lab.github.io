@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    line-height: 1.5;
+    text-align: center; /* Center the heading area */
+    background-color: #f2f9fc; /* Light blue background color */
+}
+
+header {
+    background-color: #4caf50; /* Happy green color */
+    padding: 10px;
+    color: white;
+}
+
+nav {
+    text-align: center; /* Center the navigation */
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    position: relative; /* Set position relative for dropdown */
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px; /* Increase font size */
+}
+
+nav ul li a:hover {
+    border-bottom: 2px solid white;
+}
+
+.dropdown {
+    display: none;
+    position: absolute;
+    background-color: #4caf50; /* Happy green color */
+    left: 50%; /* Move dropdown to the center */
+    transform: translateX(-50%); /* Center the dropdown horizontally */
+}
+
+.dropdown li {
+    display: block;
+}
+
+nav ul li:hover .dropdown {
+    display: block;
+}
+
+section {
+    padding: 20px;
+    text-align: left; /* Left-align section content */
+}
+
+h2 {
+    color: #4caf50; /* Happy green color */
+}
+
+footer {
+    background-color: #4caf50; /* Happy green color */
+    color: white;
+    padding: 0px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#home {
+    display: flex;
+    justify-content: space-between; /* Align content to both ends */
+}
+
+.image-container {
+    flex: 1; /* Occupy remaining space */
+    text-align: right; /* Right-align the image */
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.content {
+    flex: 1; /* Occupy remaining space */
+    padding: 20px;
+    text-align: left; /* Left-align the content */
+}
