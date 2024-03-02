@@ -1,67 +1,91 @@
+<!-- index.html -->
+
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
     <title>OpenMedTech Lab</title>
+    <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
-
     <header>
-        <h1>OpenMedTech Lab</h1>
-        <nav>
-            <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#projects">Projects</a>
-                    <ul class="dropdown">
-                        <li><a href="#openxstim">OpenXstim</a></li>
-                        <li><a href="#openxamp">OpenXamp</a></li>
-                        <li><a href="#openxstand">OpenXstand</a></li>
-                        <li><a href="#openxwheel">OpenXwheel</a></li>
-                        <li><a href="#openxwalk">OpenXwalk</a></li>
-                    </ul>
-                </li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
+        <h1 class="header-title">OpenMedTech Lab</h1>
     </header>
 
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#news">News</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    
     <section id="home">
-        <div class="image-container">
-            <img src="https://openmedtech-lab.github.io/images/Lab-image.jpeg" alt="OpenMedTech Lab" style="max-width: 100%; height: auto;">
-        </div>
-        <div class="content">
-            <h2>Welcome to Open-Source Medical Technology Lab!</h2>
-            <p>Welcome to the Open Source Medical Technology Lab, a collaborative hub where innovation meets compassion. Our lab is committed to advancing healthcare through the power of open-source solutions. By harnessing the collective knowledge and creativity of a diverse community, we strive to break down barriers, promote accessibility, and revolutionize the landscape of medical technology.</p>
-            <p>The OpenMedTech-Lab is making a profound social impact by democratizing access to cutting-edge medical solutions. Embracing open-source principles, the lab ensures affordability and adaptability on a global scale, fostering collaboration and innovation. Beyond technological advancements, the lab serves as an educational resource, empowering communities with locally adaptable solutions. The ultimate goal is to create a more accessible, ethical, and interconnected healthcare landscape.</p>
-        </div>
+        <h2>Welcome to Open Source Medical Technology Lab!</h2>
+        <p>
+            OpenMedTech Lab is a collaborative community dedicated to advancing medical technology through innovative open source solutions.
+            We bring together developers, engineers, healthcare professionals, and enthusiasts to create impactful projects for the community.
+        </p>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>
+            OpenMedTech Lab is a virtual laboraty housing several open source projects to make this world a better place!
+            The convenor of the OpenMedTech Lab is Dr. Monzurul Alam. Anyone from anywhere is welcome to contribute to our projects. 
+        </p>
     </section>
 
     <section id="projects">
         <h2>Projects</h2>
         <ul>
-            <li><strong><a href="#openXstim">OpenXstim:</a></strong> OpenXstim is a project focused on developing open-source stimulation devices for medical applications. It aims to create versatile and customizable stimulators to support various research and therapeutic needs.</li>
-            <li><strong><a href="#openXamp">OpenXamp:</a></strong> OpenXamp is an open-source amplifier project designed to enhance signal processing in medical devices. This project strives to provide a flexible and reliable platform for amplifying physiological signals for research and clinical purposes.</li>
-            <li><strong><a href="#openXwheel">OpenXwheel:</a></strong> OpenXwheel is a project centered around the development of open-source motorized wheelchairs. By incorporating customizable features and an accessible design, OpenXwheel aims to empower users with mobility challenges and enhance their independence.</li>
-            <li><strong><a href="#openXwalk">OpenXwalk:</a></strong> OpenXwalk focuses on open-source technology for gait analysis and walking assistance. This project aims to provide tools and solutions to analyze and improve walking patterns, supporting rehabilitation and research in the field of mobility.</li>
+            <li>
+                <h3><a href="https://github.com/MonzurulAlam/OpenIstim">OpenXstim: Open source programmable electrical stimulator</a></h3>
+                <p>Non-invasive Electrical Stimulation (ES) is a classic method to artificially activate the nerve or muscle fibres, especially after neurological injury or chronic conditions to engage them in activities which otherwise are not possible. The objective of this project was to develop a programmable electrical stimulator to allow researchers to develop successful stimulation therapies to restore functions in people with neurological injuries or conditions. Please visit the <a href="https://github.com/MonzurulAlam/OpenIstim">project repository</a> to learn more.</p>
+            </li>
+            <li>
+                <h3><a href="https://github.com/SHOVANPARVEZ/StandingWheelchair-manual">OpenXwheel: Open source standing wheelchair</a></h3>
+                <p>Regular standing after paralysing injury is very essential for healthy living. A number of secondary complications among the wheelchair users can be prevented just by regular standing. The objective of the project was to design a low-cost open source standing wheelchair for people with paralysis. Please visit the <a href="https://github.com/SHOVANPARVEZ/StandingWheelchair-manual">project repository</a> to learn more.</p>
+            </li>
+            <li>
+                <h3><a href="OpenXwalk.html">OpenXwalk: Open source exoskeleton walker</a></h3>
+                <p>OpenXwalk is under development..</p>
+            </li>
         </ul>
     </section>
 
+    <section id="news">
+        <h2>Latest News</h2>
+        <article>
+            <h3>Exciting Milestone Reached!</h3>
+            <p>Date: January 5, 2024</p>
+            <p>
+                We are thrilled to announce that OpenXstand has reached a significant milestone. OpenMedTech Lab is very happy to donate it's designed standing wheelchiar to CRP to replicate it for mas production in thier workshop!
+            </p>
+        </article>
+
+        <article>
+            <h3>New Collaboration with CRP</h3>
+            <p>Date: July 1, 2023</p>
+            <p>
+                OpenMedTech Lab is excited to announce a new collaboration with a leading rehabilitation center to enhance healthcare technology. Dr. Monzurul Alam started Adjunt Faculty position at BHPI affilited with CRP which will fascilitate pave the way of open source rehab technology to everyone.
+            </p>
+        </article>
+    </section>
+    
     <section id="contact">
         <h2>Contact</h2>
-        <p>Feel free to reach out to us at <a href="#openmedtechlab@gmail.com">openmedtechlab@gmail.com</a></p>
-        <p>.</p>
-        <!-- Add your contact form or information here -->
+        <p>
+            Want to get involved or have any questions? Reach out to us at <a href="mailto:openmedtechlab@gmail.com">openmedtechlab@gmail.com</a>.
+        </p>
     </section>
-
+    
     <footer>
-        <p>&copy; 2024 OpenMedTech Lab. This website is open-source under the MIT License.</p>
+        <p>&copy; 2024 OpenMedTech Lab. All rights reserved.</p>
     </footer>
-
-    <script src="script.js"></script>
 </body>
-
 </html>

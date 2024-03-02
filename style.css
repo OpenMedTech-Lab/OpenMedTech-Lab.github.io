@@ -1,94 +1,104 @@
+/* style.css */
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Arial', sans-serif;
     margin: 0;
-    line-height: 1.5;
-    text-align: center; /* Center the heading area */
-    background-color: #f2f9fc; /* Light blue background color */
+    padding: 0;
+    color: #000; /* Change text color to black */
+    line-height: 1.6; /* Increase line spacing */
 }
 
 header {
-    background-color: #4caf50; /* Happy green color */
-    padding: 10px;
-    color: white;
+    background-color: #4CAF50; /* Standard green */
+    color: #fff;
+    text-align: center;
+    padding: 0.5em;
 }
 
 nav {
-    text-align: center; /* Center the navigation */
+    background-color: #4CAF50; /* Standard green */
+    color: #fff;
+    text-align: center;
+    padding: 0.5em;
+    margin-bottom: 0.5em;
 }
 
 nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    display: flex;
+    justify-content: center;
 }
 
-nav ul li {
-    display: inline;
-    margin-right: 20px;
-    position: relative; /* Set position relative for dropdown */
+nav li {
+    margin-right: 1em;
 }
 
-nav ul li a {
+/* Update color for navigation tabs text to white */
+nav a {
     text-decoration: none;
-    color: white;
-    font-size: 18px; /* Increase font size */
+    color: #fff;
+    font-weight: bold;
+    padding: 0.5em 1em;
+    border: 1px solid #4CAF50;
+    border-radius: 5px;
 }
 
-nav ul li a:hover {
-    border-bottom: 2px solid white;
-}
-
-.dropdown {
-    display: none;
-    position: absolute;
-    background-color: #4caf50; /* Happy green color */
-    left: 50%; /* Move dropdown to the center */
-    transform: translateX(-50%); /* Center the dropdown horizontally */
-}
-
-.dropdown li {
-    display: block;
-}
-
-nav ul li:hover .dropdown {
-    display: block;
+/* Update color for navigation tabs text to dark blue on hover */
+nav a:hover {
+    background-color: #001F3F; /* Dark blue color */
+    color: #fff;
 }
 
 section {
-    padding: 20px;
-    text-align: left; /* Left-align section content */
+    margin: 2em;
 }
 
-h2 {
-    color: #4caf50; /* Happy green color */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 1em;
+}
+
+/* Update color for hyperlinked text to blue */
+a {
+    text-decoration: none;
+    color: #2196F3; /* Blue color */
+    font-weight: bold;
+}
+
+/* Update color for hyperlinked text to dark blue on hover */
+a:hover {
+    color: #003366; /* Darker blue color on hover */
+}
+
+/* Update color for project links to blue */
+#projects h3 a {
+    color: #2196F3; /* Blue color */
+}
+
+/* Update color for project links to dark blue on hover */
+#projects h3 a:hover {
+    color: #001F3F; /* Dark blue color */
+}
+
+/* Update color for email links to blue */
+#contact a {
+    color: #2196F3; /* Blue color */
+}
+
+/* Update color for email links to dark blue on hover */
+#contact a:hover {
+    color: #001F3F; /* Dark blue color */
 }
 
 footer {
-    background-color: #4caf50; /* Happy green color */
-    color: white;
-    padding: 0px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
-
-#home {
-    display: flex;
-    justify-content: space-between; /* Align content to both ends */
-}
-
-.image-container {
-    flex: 1; /* Occupy remaining space */
-    text-align: right; /* Right-align the image */
-}
-
-img {
-    max-width: 100%;
-    height: auto;
-}
-
-.content {
-    flex: 1; /* Occupy remaining space */
-    padding: 20px;
-    text-align: left; /* Left-align the content */
+    background-color: #4CAF50; /* Standard green */
+    color: #fff;
+    text-align: center;
+    padding: 0.5em;
 }
