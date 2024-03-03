@@ -8,6 +8,7 @@ body {
 
 #home {
     text-align: justify; 
+    padding: 0 5em;
 }
 
 header {
@@ -31,25 +32,26 @@ nav a {
 }
 
 section {
-    padding: 0.5em;
+    padding: 0 5em;
 }
 
 .project {
-    margin-bottom: 1em;
+    margin: 0;
     overflow: hidden;
+    padding: 0 0.1em;
 }
 
 .project img {
     float: left;
     margin-right: 1em;
-    max-width: 300px;
+    max-width: 400px;
     max-height: auto;
 }
 
 .project p {
     overflow: hidden;
     text-align: justify; 
-    margin-bottom: 0.5em;
+    margin-bottom: 0.1em;
 }
 
 footer {
