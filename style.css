@@ -42,8 +42,8 @@ section {
 .project img {
     float: left;
     margin-right: 1em;
-    max-width: 400px;
-    max-height: 400px;
+    max-width: 500px;
+    max-height: 500px;
 }
 
 .project p {
