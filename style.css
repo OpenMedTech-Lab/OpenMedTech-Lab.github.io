@@ -1,104 +1,63 @@
-/* style.css */
-
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: Arial, sans-serif;
     margin: 0;
-    padding: 0;
-    color: #000; /* Change text color to black */
-    line-height: 1.6; /* Increase line spacing */
+    padding: 0.5;
+    background-color: #f9fafa;
+    line-height: 1.5;
+}
+
+#home {
+    text-align: justify; 
 }
 
 header {
-    background-color: #4CAF50; /* Standard green */
+    background-color: #4caf50;
     color: #fff;
+    padding: 0.1em 0.5em;
     text-align: center;
-    padding: 0.5em;
 }
 
 nav {
-    background-color: #4CAF50; /* Standard green */
-    color: #fff;
-    text-align: center;
+    background-color: #4caf50;
     padding: 0.5em;
-    margin-bottom: 0.5em;
+    text-align: center;
 }
 
-nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-}
-
-nav li {
-    margin-right: 1em;
-}
-
-/* Update color for navigation tabs text to white */
 nav a {
+    color: #fff;
     text-decoration: none;
-    color: #fff;
-    font-weight: bold;
-    padding: 0.5em 1em;
-    border: 1px solid #4CAF50;
-    border-radius: 5px;
-}
-
-/* Update color for navigation tabs text to dark blue on hover */
-nav a:hover {
-    background-color: #001F3F; /* Dark blue color */
-    color: #fff;
+    padding: 0.5em;
+    margin: 0 0.1em;
 }
 
 section {
-    margin: 2em;
+    padding: 0.5em;
 }
 
-ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-li {
+.project {
     margin-bottom: 1em;
+    overflow: hidden;
 }
 
-/* Update color for hyperlinked text to blue */
-a {
-    text-decoration: none;
-    color: #2196F3; /* Blue color */
-    font-weight: bold;
+.project img {
+    float: left;
+    margin-right: 1em;
+    max-width: 500px;
+    max-height: 500px;
 }
 
-/* Update color for hyperlinked text to dark blue on hover */
-a:hover {
-    color: #003366; /* Darker blue color on hover */
-}
-
-/* Update color for project links to blue */
-#projects h3 a {
-    color: #2196F3; /* Blue color */
-}
-
-/* Update color for project links to dark blue on hover */
-#projects h3 a:hover {
-    color: #001F3F; /* Dark blue color */
-}
-
-/* Update color for email links to blue */
-#contact a {
-    color: #2196F3; /* Blue color */
-}
-
-/* Update color for email links to dark blue on hover */
-#contact a:hover {
-    color: #001F3F; /* Dark blue color */
+.project p {
+    overflow: hidden;
+    text-align: justify; 
+    margin-bottom: 0.5em;
 }
 
 footer {
-    background-color: #4CAF50; /* Standard green */
+    background-color: #4caf50;
     color: #fff;
     text-align: center;
-    padding: 0.5em;
+    padding: 0.5em; 
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
