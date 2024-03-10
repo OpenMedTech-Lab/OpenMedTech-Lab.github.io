@@ -18,7 +18,7 @@ OpenMedTech Lab is a hub for fostering collaboration and creativity in the field
 
 ## Projects
 
-Explore our diverse projects, each focusing on a unique aspect of medical technology from our Lab website: [Projects](./#projects).
+Explore our diverse projects, each focusing on a unique aspect of medical technology from our [Lab website](https://openmedtech-lab.github.io)
 
 
 Feel free to fork the repository and contribute to existing projects or propose new ideas that align with our mission.
