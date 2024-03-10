@@ -60,4 +60,4 @@ All the projects are licensed under the [MIT License](LICENSE). Feel free to use
 
 Thank you for being a part of our community! 🚀
 
-To contact, please [e-mail](mailto:openmedtechlab@gmail.com) us! 
+To contact, please [e-mail](mailto:openmedtechlab@gmail.com) us! <i class="fa fa-envelope"></i>
