@@ -56,6 +56,8 @@ Connect with the OpenMedTech community:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code. We appreciate your contributions to OpenMedTech Lab!
+All the projects are licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the design files and code. We appreciate your contributions to OpenMedTech Lab!
 
 Thank you for being a part of our community! 🚀
+
+To contact us, please [e-mail] (openmedtechlab@gmail.com)
