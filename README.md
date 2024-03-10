@@ -1,6 +1,6 @@
 # OpenMedTech Lab
 
-Welcome to OpenMedTech Lab, where the worlds of open source technology and medical advancements converge to create innovative solutions. This repository serves as a collaborative space for developers, engineers, healthcare professionals, and enthusiasts passionate about shaping the future of medical technology.
+Welcome to OpenMedTech Lab, where the worlds of open source technology and medical advancements converge to create innovative solutions. This Lab serves as a collaborative space for developers, engineers, healthcare professionals, and enthusiasts passionate about shaping the future of medical technology and support the world community.
 
 ## Table of Contents
 
@@ -18,11 +18,8 @@ OpenMedTech Lab is a hub for fostering collaboration and creativity in the field
 
 ## Projects
 
-Explore our diverse projects, each focusing on a unique aspect of medical technology:
+Explore our diverse projects, each focusing on a unique aspect of medical technology: [Projects](./projects/projects).
 
-- [Project 1](./projects/project-1): Description of project 1.
-- [Project 2](./projects/project-2): Description of project 2.
-- [Project 3](./projects/project-3): Description of project 3.
 
 Feel free to fork the repository and contribute to existing projects or propose new ideas that align with our mission.
 
