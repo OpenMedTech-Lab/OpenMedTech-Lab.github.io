@@ -4,13 +4,13 @@
 
 OpenMedTech Lab is a collaborative community dedicated to advancing medical technology through innovative open source solutions. The convenor of the OpenMedTech Lab is Dr. Monzurul Alam. We bring together developers, engineers, healthcare professionals, and enthusiasts to create impactful projects for the community. Anyone from anywhere is welcome to contribute to our projects!
 
-### Projects
+## Projects
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- [OpenXstim](#OpenXstim): Open
+- [OpenXwheel](#OpenXwheel)
+- [OpenXwalk](#OpenXwalk)
 
-#### OpenXstim: Open source programmable electrical stimulator
+### OpenXstim
 
 Transcutaneous spinal cord stimulation (tSES), a non-invasive, spinal cord neuromodulation method holds tremendous promise and hope for the people with paralysis resultant of spinal cord injury (SCI) and other neurological conditions. Yet, there are not many options of such stimulation devices compared to other successful electrical stimulators, especially for most people with neurological injuries in the developing world. 
 
@@ -19,13 +19,13 @@ Hence, we have developed an open source programmable transcutaneous electrical s
 Please visit the [project GitHub repository](https://github.com/OpenMedTech-Lab/OpenXstim) to learn more.
 
 
-#### Project 2
+### Project 2
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-#### Poject 3
+### Poject 3
 
 
 
@@ -46,50 +46,7 @@ Please visit the [project GitHub repository](https://github.com/OpenMedTech-Lab/
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-# My Project README
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
-
-## Introduction
-
-This is an introduction to my project.
-
----
-
-## Features
-
-Here are the features of my project.
-
----
-
-## Installation
-
-Instructions for installing my project.
-
----
-
-## Usage
-
-How to use my project.
-
----
-
-## Contributing
-
-Guidelines for contributing to my project.
-
----
-
-## License
-
-Information about the project's license.
-
 
 
