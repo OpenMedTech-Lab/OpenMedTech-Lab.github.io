@@ -4,9 +4,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Introduction
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+OpenMedTech Lab is a collaborative community dedicated to advancing medical technology through innovative open source solutions. The convenor of the OpenMedTech Lab is Dr. Monzurul Alam. We bring together developers, engineers, healthcare professionals, and enthusiasts to create impactful projects for the community. Anyone from anywhere is welcome to contribute to our projects!
 
 ### Projects
 
