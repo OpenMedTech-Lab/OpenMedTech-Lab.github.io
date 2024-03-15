@@ -12,60 +12,28 @@ OpenMedTech Lab is a collaborative community dedicated to advancing medical tech
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-#### Impacts
+#### Project 1
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+This is an unordered list following a header.
 
-##### Contact
+
+#### Project 2
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+#### Poject 3
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
+
+### Impacts
 
 * * *
 
-### Here is an unordered list:
+### Contact
 
 *   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
@@ -89,10 +57,4 @@ OpenMedTech Lab is a collaborative community dedicated to advancing medical tech
 <dd>Green</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
