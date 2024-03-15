@@ -1,6 +1,4 @@
-# OpenMedTech Lab
-
-Welcome to Open Source Medical Technology Lab where innovation meets humanity!
+*Welcome to Open Source Medical Technology Lab where innovation meets humanity!*
 
 ## Introduction
 
