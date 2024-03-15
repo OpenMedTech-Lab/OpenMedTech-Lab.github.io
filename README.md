@@ -16,7 +16,7 @@ Transcutaneous spinal cord stimulation (tSES), a non-invasive, spinal cord neuro
 
 Hence, we have developed an open source programmable transcutaneous electrical stimulator (TES) to facilitate researchers to develop successful stimulation therapy for people with neurological conditions. Commonly available electronic components are being used in the stimulator so that it can be developed in places where availability is an issue. Total components cost is around $200! 
 
-<img src="https://openmedtech-lab.github.io/images/OpenXstim.png" width="300">
+<img src="https://openmedtech-lab.github.io/images/OpenXstim.png" width="350">
 
 Please visit the [project GitHub repository](https://github.com/OpenMedTech-Lab/OpenXstim) to learn more.
 
@@ -26,7 +26,7 @@ Regular standing using assistive device after paralysing spinal cord injury (SCI
 
 Hence, we have developed an open source standing wheelchair to improve the life of people with paralysis in low- and middle-income (LMI) settings. Careful considerations were given to simplify the design to avoid complex manufacturing process. It costs only around $166 in a LMI country to develop this standing wheelchair! 
 
-<img src="https://openmedtech-lab.github.io/images/OpenXwheel.png" width="300">
+<img src="https://openmedtech-lab.github.io/images/OpenXwheel.png" width="350">
 
 Please visit the [project GitHub repository](https://github.com/OpenMedTech-Lab/OpenXwheel) to learn more.
 
@@ -36,7 +36,7 @@ Children facing movement challenges due to conditions like cerebral palsy often 
 
 Hence, we've developed an open-source exoskeleton walker, aiming to make this technology accessible to children worldwide, promoting their well-being and ensuring they can enjoy life like everyone else! 
 
-<img src="https://openmedtech-lab.github.io/images/OpenXwalk.jpg" width="300">
+<img src="https://openmedtech-lab.github.io/images/OpenXwalk.jpg" width="350">
 
 Please visit the [project GitHub repository](https://github.com/OpenMedTech-Lab/OpenXwalk) to learn more.
 
