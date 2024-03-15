@@ -46,17 +46,50 @@ Please visit the [project GitHub repository](https://github.com/OpenMedTech-Lab/
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+# My Project README
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## Introduction
+
+This is an introduction to my project.
+
+---
+
+## Features
+
+Here are the features of my project.
+
+---
+
+## Installation
+
+Instructions for installing my project.
+
+---
+
+## Usage
+
+How to use my project.
+
+---
+
+## Contributing
+
+Guidelines for contributing to my project.
+
+---
+
+## License
+
+Information about the project's license.
+
 
 
