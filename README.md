@@ -26,6 +26,8 @@ Regular standing using assistive device after paralysing spinal cord injury (SCI
 
 Hence, we have developed an open source standing wheelchair to improve the life of people with paralysis in low- and middle-income (LMI) settings. Careful considerations were given to simplify the design to avoid complex manufacturing process. It costs only around $166 in a LMI country to develop this standing wheelchair! 
 
+<img src="https://openmedtech-lab.github.io/images/OpenXwheel.png" width="300">
+
 Please visit the [project GitHub repository](https://github.com/OpenMedTech-Lab/OpenXwheel) to learn more.
 
 ### OpenXwalk
@@ -33,6 +35,8 @@ Please visit the [project GitHub repository](https://github.com/OpenMedTech-Lab/
 Children facing movement challenges due to conditions like cerebral palsy often encounter difficulties with walking and may experience feelings of exclusion. Exoskeleton walkers offer a potential solution by providing support for walking and aiding muscle movements. These devices are customizable for each child, potentially contributing to both physical improvement and cognitive development. Beyond the physical benefits, exoskeletons can enhance social interactions, fostering a sense of inclusion and happiness. Early intervention with these walkers may lead to improved long-term outcomes. However, the availability of such walkers is limited, and their cost is high.
 
 Hence, we've developed an open-source exoskeleton walker, aiming to make this technology accessible to children worldwide, promoting their well-being and ensuring they can enjoy life like everyone else! 
+
+<img src="https://openmedtech-lab.github.io/images/OpenXwalk.jpg" width="300">
 
 Please visit the [project GitHub repository](https://github.com/OpenMedTech-Lab/OpenXwalk) to learn more.
 
