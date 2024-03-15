@@ -16,7 +16,7 @@ Transcutaneous spinal cord stimulation (tSES), a non-invasive, spinal cord neuro
 
 Hence, we have developed an open source programmable transcutaneous electrical stimulator (TES) to facilitate researchers to develop successful stimulation therapy for people with neurological conditions. Commonly available electronic components are being used in the stimulator so that it can be developed in places where availability is an issue. Total components cost is around $200! 
 
-![OpenXstim](https://openmedtech-lab.github.io/images/OpenXstim.png)
+![OpenXstim](https://openmedtech-lab.github.io/images/OpenXstim.png| width=300)
 
 Please visit the [project GitHub repository](https://github.com/OpenMedTech-Lab/OpenXstim) to learn more.
 
