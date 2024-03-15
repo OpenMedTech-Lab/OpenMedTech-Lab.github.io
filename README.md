@@ -33,14 +33,10 @@ Children facing movement challenges due to conditions like cerebral palsy often 
 Hence, we've developed an open-source exoskeleton walker, aiming to make this technology accessible to children worldwide, promoting their well-being and ensuring they can enjoy life like everyone else! 
 
 Please visit the [project GitHub repository](https://github.com/OpenMedTech-Lab/OpenXwalk) to learn more.
-            
-### Impacts
-
-* * *
 
 ### Contact
 
-*   Item foo
+Want to get involved or have any questions? Please [email](mailto:openmedtechlab@gmail.com) us! 
 
 ### Small image
 
