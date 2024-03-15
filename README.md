@@ -36,4 +36,4 @@ Please visit the [project GitHub repository](https://github.com/OpenMedTech-Lab/
 
 ## Contact
 
-Want to get involved or have any questions? Please [email](mailto:openmedtechlab@gmail.com) us! 
+Want to get involved or have any questions? Please [email](mailto:openmedtechlab@gmail.com) us!
