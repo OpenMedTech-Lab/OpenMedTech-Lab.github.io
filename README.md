@@ -34,6 +34,6 @@ Please visit the [project GitHub repository](https://github.com/OpenMedTech-Lab/
 
 Please visit the [project GitHub repository](https://github.com/OpenMedTech-Lab/OpenXwalk) to learn more.
 
-### Contact
+## Contact
 
 Want to get involved or have any questions? Please [email](mailto:openmedtechlab@gmail.com) us! 
