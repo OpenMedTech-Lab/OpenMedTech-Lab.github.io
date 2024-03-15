@@ -1,63 +1,123 @@
-# OpenMedTech Lab
+---
+layout: default
+---
 
-Welcome to OpenMedTech Lab, where the worlds of open source technology and medical advancements converge to create innovative solutions. This Lab serves as a collaborative space for developers, engineers, healthcare professionals, and enthusiasts passionate about shaping the future of medical technology and support the world community.
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-## Table of Contents
+[Link to another page](./another-page.html).
 
-- [Introduction](#introduction)
-- [Projects](#projects)
-- [Getting Started](#getting-started)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Code of Conduct](#code-of-conduct)
-- [Community](#community)
-- [License](#license)
+There should be whitespace between paragraphs.
 
-## Introduction
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-OpenMedTech Lab is a hub for fostering collaboration and creativity in the field of medical technology. Our mission is to develop accessible, affordable, and impactful solutions that address real-world challenges in healthcare. We invite you to join our community and contribute to the intersection of open source and healthcare innovation.
+# Header 1
 
-## Projects
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-Explore our diverse projects, each focusing on a unique aspect of medical technology from our [Lab website](https://openmedtech-lab.github.io)
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### Header 3
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+#### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
+* * *
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-Feel free to fork the repository and contribute to existing projects or propose new ideas that align with our mission.
+### Definition lists can be used with HTML syntax.
 
-## Getting Started
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
 
-To begin your journey with OpenMedTech Lab:
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
 
-1. **Fork the Repository:** Fork this repository to your GitHub account.
-
-2. **Clone the Repository:** Clone the forked repository to your local machine:
-
-    ```bash
-    git clone https://github.com/your-username/OpenMedTech-Lab.git
-    ```
-
-3. **Explore Projects:** Browse through the projects in the `projects` directory and choose one to contribute to.
-
-4. **Contribute:** Follow the project's README for instructions on setting up your development environment and contributing.
-
-## Contribution Guidelines
-
-We welcome contributions from all members of our community. Before contributing, please review our [Contribution Guidelines](CONTRIBUTING.md) to ensure a smooth collaboration process.
-
-## Code of Conduct
-
-To maintain a positive and inclusive community, please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). Respect, empathy, and collaboration are the pillars of our community.
-
-## Community
-
-Connect with the OpenMedTech community:
-
-- Join our [Discord Channel](#) for real-time discussions.
-- Follow us on [Twitter](https://twitter.com/OpenMedTechLab) for updates and announcements.
-
-## License
-
-All the projects are licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the design files and code. We appreciate your contributions to OpenMedTech Lab!
-
-Thank you for being a part of our community! 🚀
-
-To contact, please [e-mail](mailto:openmedtechlab@gmail.com) us! :email:
+```
+The final element.
+```
