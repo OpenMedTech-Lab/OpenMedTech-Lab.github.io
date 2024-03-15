@@ -6,9 +6,9 @@ OpenMedTech Lab is a collaborative community dedicated to advancing medical tech
 
 ## Projects
 
-- [OpenXstim](#OpenXstim): Open source electrical stimulator
-- [OpenXwheel](#OpenXwheel): Open source standing wheelchair
-- [OpenXwalk](#OpenXwalk): Open source exoskeleton walker
+-[OpenXstim](#OpenXstim): Open source electrical stimulator
+-[OpenXwheel](#OpenXwheel): Open source standing wheelchair
+-[OpenXwalk](#OpenXwalk): Open source exoskeleton walker
 
 ### OpenXstim
 
