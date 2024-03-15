@@ -2,7 +2,7 @@
 
 ## Introduction
 
-<p align="justify">OpenMedTech Lab is a collaborative community dedicated to advancing medical technology through innovative open source solutions. The convenor of the OpenMedTech Lab is Dr. Monzurul Alam. We bring together developers, engineers, healthcare professionals, and enthusiasts to create impactful projects for the community. Anyone from anywhere is welcome to contribute to our projects!</p>
+<p align="justify">OpenMedTech Lab is a collaborative community dedicated to advancing medical technology through innovative open source solutions. Convenor of the OpenMedTech Lab is Dr. Monzurul Alam. We bring together developers, engineers, healthcare professionals, and enthusiasts to create impactful projects for the community. Anyone from anywhere is welcome to contribute to our projects!</p>
 
 ## Projects
 
