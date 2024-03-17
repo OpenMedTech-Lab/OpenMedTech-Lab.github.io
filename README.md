@@ -7,6 +7,7 @@
 ## Projects
 
 - [OpenXstim](#OpenXstim): Open source electrical stimulator
+- [OpenXhand](#OpenXhand): Open source hand exokeleton
 - [OpenXwheel](#OpenXwheel): Open source standing wheelchair
 - [OpenXwalk](#OpenXwalk): Open source exoskeleton walker
 
@@ -17,6 +18,15 @@
 <img src="https://openmedtech-lab.github.io/images/OpenXstim.png" width="450">
 
 Please visit the [project GitHub repository](https://github.com/OpenMedTech-Lab/OpenXstim) to learn more.
+
+### OpenXhand
+
+<p align="justify">Millions of individuals suffer from upper extremity paralysis caused by neurological disorders including stroke, traumatic brain injury, or spinal cord injury. Robotic hand exoskeletons can substitute the missing motor control and help restore the functions in daily operations. However, most of the hand exoskeletons are bulky, stationary, and cumbersome to use. Using 3D printing technology, we have developed a motorized, lightweight, fully wearable rehabilitative hand exoskeleton capable of producing various grasps needed for the execution of daily tasks. The exoskeleton can produce fingertip force up to 8 N and can cover 91.5° of range of motion in just 3 s ans weights just 228 g. We tested the exoskeleton on two individuals with severe dextarity impairments. The results strongly support the functionality restoration
+and usability of the exokeleton in performing daily activities. Total components cost prototype one exoskeleton is around $150!</p>
+
+<img src="https://openmedtech-lab.github.io/images/OpenXhand.png" width="450">
+
+Please visit the [project GitHub repository](https://github.com/OpenMedTech-Lab/OpenXhand) to learn more.
 
 ### OpenXwheel
 
