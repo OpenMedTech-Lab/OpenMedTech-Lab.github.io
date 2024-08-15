@@ -13,6 +13,14 @@
 - [OpenXstand](#OpenXstand): Open source standing frame
 - [OpenXwalk](#OpenXwalk): Open source exoskeleton walker
 
+### OpenXamp
+
+<p align="justify">OpenXamp is a cost-effective, open-source bio-signal amplifier designed to filter and amplify physiological signals for laboratory and DIY experiments. It features a high common-mode-rejection-ratio (CMRR) pre-amplifier for differential signal detection, with an option to short the inverting input for single-ended use. The device includes band-pass filtering and adjustable amplification to tailor the signal strength. Users can either utilize the amplified analog signal directly or convert it to digital via an integrated analog-to-digital converter (ADC) and microcontroller (MCU). The digitized data can then be transmitted to a computer via USB, leveraging the MCU's built-in interfaces for streamlined data handling and analysis. Commonly available electronic components are being used in the stimulator so that it can be developed in places where availability is an issue. Total components cost is around $200!</p>
+
+<img src="https://openmedtech-lab.github.io/images/OpenXamp.png" width="450">
+
+Please visit the [project GitHub repository](https://github.com/OpenMedTech-Lab/OpenXamp) to learn more.
+
 ### OpenXstim
 
 <p align="justify">Transcutaneous spinal cord stimulation (tSES), a non-invasive, spinal cord neuromodulation method holds tremendous promise and hope for the people with paralysis resultant of spinal cord injury (SCI) and other neurological conditions. Yet, there are not many options of such stimulation devices compared to other successful electrical stimulators, especially for most people with neurological injuries in the developing world. Hence, we have developed an open source programmable transcutaneous electrical stimulator (TES) to facilitate researchers to develop successful stimulation therapy for people with neurological conditions. Commonly available electronic components are being used in the stimulator so that it can be developed in places where availability is an issue. Total components cost is around $200!</p>
