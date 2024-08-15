@@ -2,13 +2,15 @@
 
 ## Introduction
 
-<p align="justify">OpenMedTech Lab is a collaborative community dedicated to advancing medical technology through innovative open source solutions. Convenor of the OpenMedTech Lab is Dr. Monzurul Alam. We bring together developers, engineers, healthcare professionals, and enthusiasts to create impactful projects for the community. Anyone from anywhere is welcome to contribute to our projects!</p>
+<p align="justify">OpenMedTech Lab is an international collaborative community dedicated to advancing medical technology through innovative open source solutions. Convenor of the OpenMedTech Lab is [Dr. Monzurul Alam](https://www.linkedin.com/in/monzurul-alam-a9152343/). We bring together developers, engineers, healthcare professionals, enthusiasts, everyone to create impactful projects for the community. Anyone from anywhere is warmly welcome to contribute to our projects!</p>
 
 ## Projects
 
+- [OpenXamp](#OpenXamp): Open source biosignal amplifier
 - [OpenXstim](#OpenXstim): Open source electrical stimulator
 - [OpenXhand](#OpenXhand): Open source hand exokeleton
 - [OpenXwheel](#OpenXwheel): Open source standing wheelchair
+- [OpenXstand](#OpenXstand): Open source standing frame
 - [OpenXwalk](#OpenXwalk): Open source exoskeleton walker
 
 ### OpenXstim
